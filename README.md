@@ -1,1 +1,1 @@
-# tributepage
+This was my first project with freecodecamp and I was asked to create a tribute page for someone of my own choice. It was my first experience of building a responsive web page, adding various div elements and adding a picture which changed in size depending on the view port.
